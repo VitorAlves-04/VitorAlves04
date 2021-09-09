@@ -1,6 +1,6 @@
 <h1>Olá eu sou o Vitor Alves</h1>
 
-- 🔭 I’m currently working on ...
+
 - 🌱 estou aprendendo HTML, CSS e JavaScript
 
 
